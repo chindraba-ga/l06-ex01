@@ -1,7 +1,7 @@
 # l06-ex01
 
--  Status: Pending
--  CodePen: <https://codepen.io/chindraba-ga/pen/>
+-  Status: In Progress
+-  CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
 -  Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
 
 ## Contents
