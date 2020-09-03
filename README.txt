@@ -1,5 +1,5 @@
 l06-ex01
-* Status: In Progress
+* Status: Final
 * CodePen: <https://codepen.io/chindraba-ga/pen/oNxYZgG>
 * Live page: <https://www.chindraba.work/fewd/l06-ex01.html>
 
